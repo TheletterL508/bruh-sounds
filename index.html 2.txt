@@ -17,7 +17,7 @@
 </style>
 
 <body>
-<a href="file:///C:/Users/Judy/Desktop/whatever%20dark%20mode.html" class="button">dark mode</a>
+<a href="https://theletterl508.github.io/bruh-sounds/whatever-dark-mode/" class="button">dark mode</a>
 <h1>welcome bruh</h1>
 <h2> advanced bruhs (upgrade to premium to unlock more of these):
 <iframe width="420" height="345" src="https://www.youtube.com/embed/BwVZ_tPryDc">
